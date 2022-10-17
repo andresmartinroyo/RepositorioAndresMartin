@@ -1,0 +1,7 @@
+txt=list(input("Enter a phrase: "))
+a = txt.count("a")
+e = txt.count("e")
+i =txt.count("i")
+o = txt.count("o")
+u = txt.count("u")
+print (f"The phrase has {a} a, {e} e, {i} i, {o} o and  {u} u.")

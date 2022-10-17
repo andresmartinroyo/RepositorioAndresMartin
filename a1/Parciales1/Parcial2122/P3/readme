@@ -1,0 +1,22 @@
+G()(al)
+
+Matriz
+
+Hay una empresa que ofrece productos biológicos 4000, químicos 1000 y farmaceuticos, 2500.
+tengo que predir, RIF, tipo de pago contado(R), credito (C), el producto.
+
+Si el ultimo numero del rif es primo, descuenteo de 5%
+Si el total de la compra es par 2%
+Si es contado 3%
+Si es farmaceutico no tiene impuesto, si es otra cosa tiene un 12%
+
+imprimir en la factura descuento, total, impuesto, codigo de tipo de pago, rif, el producto
+
+Al final del dia mostrar stats
+
+la cantidad de compradores para cada tipo de producto
+el descuento total 
+el rif del comprador para la compra mas alta 
+el monto total con impuesto
+
+

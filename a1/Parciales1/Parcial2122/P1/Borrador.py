@@ -1,0 +1,1 @@
+print("Descuento de 15% de 12")
