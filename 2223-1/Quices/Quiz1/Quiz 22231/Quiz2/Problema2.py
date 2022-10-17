@@ -131,7 +131,7 @@ while True:
                     break
                     
         clientes[cont1]=cliente
-        con1t+=1
+        cont1+=1
     
     #Si ans es 3
     elif ans==3:
