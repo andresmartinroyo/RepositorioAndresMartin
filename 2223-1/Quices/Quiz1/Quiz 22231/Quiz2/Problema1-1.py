@@ -14,8 +14,7 @@ def main():
                 if num%i==0:
                     divisores.append(i)
             for index in range(len(divisores)):
-                divisor=divisores[index]
-                if (divisor+1) in divisores and (divisor+2) in divisores:
+                if (divisores[index]+1) in divisores and (divisores[index]+2) in divisores:
                     print(f"El número {num} es triangular piramidal.")
                     break
 main()
