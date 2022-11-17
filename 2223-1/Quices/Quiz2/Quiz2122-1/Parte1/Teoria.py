@@ -1,0 +1,6 @@
+file=open("Respuestas.txt","w")
+file.write("1.-Falso: Se conoce como multiplicidad a la relacion de existencia que tiene una clase con repsecto a otra.\n")
+file.write("2.-Falso: Si es correcot que serepresentan con una linea sin puntas. Se escribe entre las clases las cuales se les quieras colocar una asociacion y la cualidad que las relaciona.\n")
+file.write("3.- Verdadero: Los metodos se esriben en la parte inferior de las clases, cada clase tiene por lo menos un metodo.\n")
+file.write("4.- Verdadero: Para que los datos del pedido existan, debe de existir el pedido, pero no al reves.")
+file.close()

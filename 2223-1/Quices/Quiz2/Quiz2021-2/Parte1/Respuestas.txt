@@ -1,0 +1,4 @@
+1. C. Asociación: La asociansio de representa con una linea simple. Representa que no hay dependencia entre ellas.
+2. A. 0..* a 1: Por cada estrella pueden haber desde nungun hasta un grupo de planetas
+3. A. Astro: Aparte de que los abstractos se representan con cursivas, para que una clase sea abstracta le debe de heredar a otras. Solo los astros le heredan a otras clases
+4. B. Composicion: Ya que el la estrella no puede existir sin la clase nebulosa.
